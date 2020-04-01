@@ -11,7 +11,9 @@
     <!-- Define your beans here -->
     <bean id="myFortune" class="com.morrisje.springdemo.FortuneServiceImpl"></bean>
     <bean id="myCoach"
-          class="com.morrisje.springdemo.BaseballCoach">
+          class="com.morrisje.springdemo.TrackCoach"
+          init-method="doMyStartupStuff"
+          destroy-method="doMyDestroyStuff">
         <constructor-arg ref="myFortune"/>
     </bean>
 </beans>
