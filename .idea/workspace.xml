@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5388444c-0628-4f94-83e8-46abba0c1afc" name="Default Changelist" comment="" />
+    <list default="true" id="5388444c-0628-4f94-83e8-46abba0c1afc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +20,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZqmIV355MInSVGZxVOxc8KfAfJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/morrisje" />
@@ -147,7 +154,7 @@
       <updated>1585574918478</updated>
       <workItem from="1585574920046" duration="2665000" />
       <workItem from="1585632665558" duration="8723000" />
-      <workItem from="1585717120003" duration="3060000" />
+      <workItem from="1585717120003" duration="3339000" />
     </task>
     <servers />
   </component>
@@ -171,22 +178,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1585640382973" />
-    <state width="1398" height="177" key="GridCell.Tab.0.bottom" timestamp="1585719958583">
+    <state width="1398" height="177" key="GridCell.Tab.0.bottom" timestamp="1585720432066">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="177" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585719958583" />
-    <state width="1398" height="177" key="GridCell.Tab.0.center" timestamp="1585719958582">
+    <state width="1398" height="177" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585720432065" />
+    <state width="1398" height="177" key="GridCell.Tab.0.center" timestamp="1585720432065">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="177" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585719958582" />
-    <state width="1398" height="177" key="GridCell.Tab.0.left" timestamp="1585719958582">
+    <state width="1398" height="177" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585720432065" />
+    <state width="1398" height="177" key="GridCell.Tab.0.left" timestamp="1585720432064">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="177" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585719958582" />
-    <state width="1398" height="177" key="GridCell.Tab.0.right" timestamp="1585719958583">
+    <state width="1398" height="177" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585720432064" />
+    <state width="1398" height="177" key="GridCell.Tab.0.right" timestamp="1585720432065">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="177" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585719958583" />
+    <state width="1398" height="177" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585720432065" />
     <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1585719726501">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
