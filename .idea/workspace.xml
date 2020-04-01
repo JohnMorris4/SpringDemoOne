@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5388444c-0628-4f94-83e8-46abba0c1afc" name="Default Changelist" comment="">
+    <list default="true" id="5388444c-0628-4f94-83e8-46abba0c1afc" name="Default Changelist" comment="New Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,12 +154,24 @@
       <updated>1585574918478</updated>
       <workItem from="1585574920046" duration="2665000" />
       <workItem from="1585632665558" duration="8723000" />
-      <workItem from="1585717120003" duration="3339000" />
+      <workItem from="1585717120003" duration="3601000" />
     </task>
+    <task id="LOCAL-00001" summary="New Project">
+      <created>1585720819392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585720819392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="314" y="127" key="#Project_Structure" timestamp="1585637268179">
@@ -178,6 +190,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1585640382973" />
+    <state x="242" y="64" key="CommitChangelistDialog2" timestamp="1585720858590">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="242" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585720858590" />
     <state width="1398" height="177" key="GridCell.Tab.0.bottom" timestamp="1585720432066">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -214,6 +230,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585575754630" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1585720928432">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1585720928432" />
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585720932079">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1585720932079" />
+    <state x="401" y="363" key="git4idea.ui.GitResetDialog" timestamp="1585720893337">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="401" y="363" key="git4idea.ui.GitResetDialog/0.23.1440.877@0.23.1440.877" timestamp="1585720893337" />
     <state x="385" y="211" key="run.anything.popup" timestamp="1585575544437">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
